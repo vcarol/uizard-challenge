@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Uizard-Challenge
 
-## Getting Started
+[Hacker News Reader](https://uizard.notion.site/uizard/Quest-Front-end-Developer-89b58e89f4434634a022031b38cdcfaf)
 
-First, run the development server:
+#### Descripción del desafío:
+Construir un clon simple de Hacker News que obtenga datos de un endpoint JSON público y los muestre en un visor interactivo. 
+La aplicación debe tener dos paneles:
+- **Panel izquierdo**: Muestra las 10 historias principales de Hacker News.
+- **Panel derecho**: Muestra una vista previa de la historia seleccionada usando un <iframe>.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+##### Notas Importantes:
+Utiliza <iframe> para la vista previa de la historia seleccionada en el panel derecho.
+No es necesario replicar el diseño exacto del mockup, pero puedes usarlo como referencia.
+[Mockup](https://app.uizard.io/p/de328bd3/preview)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
