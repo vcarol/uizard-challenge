@@ -16,6 +16,17 @@ Utiliza <iframe> para la vista previa de la historia seleccionada en el panel de
 No es necesario replicar el diseño exacto del mockup, pero puedes usarlo como referencia.
 [Mockup](https://app.uizard.io/p/de328bd3/preview)
 
+#### Instrucciones para Probar el Proyecto
+
+1. **Clonar el Repositorio:**
+
+   ```bash
+   git clone https://github.com/vcarol/uizard-challenge.git
+   cd uizard-challenge
+   npm install
+   npm run dev
+   ```
+
 #### Resultado
 
 ![Imagen](/public/capture.png)
