@@ -18,14 +18,12 @@ No es necesario replicar el diseño exacto del mockup, pero puedes usarlo como r
 
 #### Instrucciones para Probar el Proyecto
 
-1. **Clonar el Repositorio:**
-
-   ```bash
-   git clone https://github.com/vcarol/uizard-challenge.git
-   cd uizard-challenge
-   npm install
-   npm run dev
-   ```
+```bash
+git clone https://github.com/vcarol/uizard-challenge.git
+cd uizard-challenge
+npm install
+npm run dev
+```
 
 #### Resultado
 
